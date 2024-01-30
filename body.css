@@ -1,0 +1,39 @@
+h1 {
+    font-size: 40px;
+    color: white;
+    background-color: #4CAF50;
+    text-align: center;
+  }
+  
+  #image {
+    width:300px;
+    height:200px;
+  }
+  
+  #image1 {
+    z-index:1;
+    width:150px;
+    height:100px;
+  }
+  
+  #image2 {
+    z-index:1;
+    width:150px;
+    height:100px;
+  }
+  
+  .coverImage1 {
+    background-image: url("https://octaneseating.com/blog/wp-content/uploads/2022/08/tree-peices.png");
+    background-size: cover;
+    width:150px;
+    height:100px;
+  }
+  
+  .coverImage2 {
+    background-image: url("https://m.media-amazon.com/images/I/512+wrpsGaL._AC_UF894,1000_QL80_.jpg");
+    background-size: cover;
+    width:150px;
+    height:100px;
+  }
+  
+  
